@@ -1,6 +1,6 @@
 {
-    "name": "flutter_web_test",
-    "short_name": "flutter_web_test",
+    "name": "co_payment",
+    "short_name": "co_payment",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
